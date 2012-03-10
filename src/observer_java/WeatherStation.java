@@ -1,4 +1,4 @@
-package observer;
+package observer_java;
 
 public class WeatherStation {
 
